@@ -1,0 +1,19 @@
+{
+  "students": [
+    {
+      "id": "deda",
+      "name": "Tejas Yadav",
+      "email": "tejas.yadav_cs23@gla.ac.in",
+      "sectionId": "5f5c",
+      "enrollmentDate": "2023-01-17"
+    }
+  ],
+  "sections": [
+    {
+      "id": "5f5c",
+      "name": "F",
+      "description": "GLA 3rd year"
+    }
+  ],
+  "results": []
+}
